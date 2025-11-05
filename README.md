@@ -8,3 +8,8 @@
 - Docker
 - PostgreSQL
 - FastAPI
+
+## Контакты
+- Email: toxa.burdey@example.com
+- Telegram: @qante17
+- GitHub: [Anton-Burdey](https://github.com/Anton-Burdey)
