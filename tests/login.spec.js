@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
-test.describe('Авторизация на Sauce Demo', () => {
+test.describe('@ui Авторизация на Sauce Demo', () => {
 
     test('Пользователь должен успешно войти в систему', async ({ page }) => {
         await page.goto('https://www.saucedemo.com/');
